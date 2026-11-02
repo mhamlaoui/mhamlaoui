@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#07090d"/></linearGradient></defs>
+<style>
+.k{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:13px;fill:#7d8590;letter-spacing:2px}
+.h{font-family:'Segoe UI','Inter',Helvetica,Arial,sans-serif;font-size:27px;font-weight:700;fill:#f0f6fc}
+.d{font-family:'Segoe UI','Inter',Helvetica,Arial,sans-serif;font-size:16px;fill:#9ea7b3}
+.t{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:14px;fill:#2ee6a6}
+.s{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:13px;fill:#c9d1d9}
+.n{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:84px;font-weight:700;fill:#ffffff;fill-opacity:.035}
+.p{animation:pu 2s ease-in-out infinite}@keyframes pu{50%{opacity:.2}}
+</style>
+<rect x="1" y="1" width="598" height="278" rx="10" fill="url(#g)" stroke="#21262d" stroke-width="2"/>
+<rect x="1" y="1" width="4" height="278" rx="2" fill="#2ee6a6"/>
+<text x="570" y="250" text-anchor="end" class="n">01</text>
+<text x="32" y="46" class="k">OFFENSIVE · MALWARE R&amp;D</text>
+<text x="32" y="90" class="h">Virus Companion</text>
+
+<text x="32" y="132" class="d">Self-replicating proof-of-concept in C, disguised as a media</text><text x="32" y="156" class="d">reader. Demonstrated in a controlled lab on school machines to</text><text x="32" y="180" class="d">study propagation and detection.</text>
+<rect x="32" y="226" width="30" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="43" y="244" class="t">C</text><rect x="70" y="226" width="64" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="81" y="244" class="t">Linux</text><rect x="142" y="226" width="47" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="153" y="244" class="t">PoC</text><rect x="198" y="226" width="89" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="209" y="244" class="t">lab-only</text>
+</svg>
