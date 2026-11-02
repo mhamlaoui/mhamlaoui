@@ -142,9 +142,6 @@ text{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace}
 <text y="549.0"><tspan x="731.2" class="o4">1</tspan><tspan x="737.4" class="o6">0</tspan><tspan x="743.6" class="o5">0</tspan><tspan x="749.8" class="o1">0</tspan><tspan x="756.0" class="o5">1</tspan><tspan x="762.2" class="o4">1</tspan><tspan x="768.4" class="o3">1</tspan><tspan x="774.6" class="o3">0</tspan><tspan x="780.8" class="o3">0</tspan><tspan x="787.0" class="o3">1</tspan><tspan x="793.2" class="o4">0</tspan><tspan x="799.4" class="o5">0</tspan><tspan x="805.6" class="o5">1</tspan><tspan x="811.8" class="o5">1</tspan><tspan x="818.0" class="o5">0</tspan><tspan x="824.2" class="o4">0</tspan><tspan x="830.4" class="o3">0</tspan><tspan x="836.6" class="o3">1</tspan><tspan x="842.8" class="o4">0</tspan><tspan x="849.0" class="o4">1</tspan><tspan x="855.2" class="o5">1</tspan><tspan x="861.4" class="o4">0</tspan><tspan x="867.6" class="o4">0</tspan><tspan x="873.8" class="o5">0</tspan><tspan x="880.0" class="o5">1</tspan><tspan x="886.2" class="o5">0</tspan><tspan x="892.4" class="o5">1</tspan><tspan x="898.6" class="o5">0</tspan><tspan x="904.8" class="o5">0</tspan><tspan x="911.0" class="o3">1</tspan><tspan x="917.2" class="o4">1</tspan><tspan x="923.4" class="o5">0</tspan><tspan x="929.6" class="o4">0</tspan><tspan x="935.8" class="o1">1</tspan><tspan x="942.0" class="o1">0</tspan><tspan x="948.2" class="o1">1</tspan><tspan x="954.4" class="o1">1</tspan><tspan x="960.6" class="o1">0</tspan><tspan x="966.8" class="o1">0</tspan><tspan x="973.0" class="o2">0</tspan><tspan x="979.2" class="o3">1</tspan><tspan x="985.4" class="o3">1</tspan><tspan x="991.6" class="o3">0</tspan><tspan x="997.8" class="o4">0</tspan><tspan x="1004.0" class="o4">1</tspan><tspan x="1010.2" class="o4">1</tspan><tspan x="1016.4" class="o4">0</tspan><tspan x="1022.6" class="o3">0</tspan><tspan x="1028.8" class="o4">1</tspan><tspan x="1035.0" class="o4">1</tspan><tspan x="1041.2" class="o4">1</tspan><tspan x="1047.4" class="o5">1</tspan><tspan x="1053.6" class="o4">1</tspan><tspan x="1059.8" class="o4">0</tspan><tspan x="1066.0" class="o4">0</tspan><tspan x="1072.2" class="o3">0</tspan><tspan x="1078.4" class="o3">0</tspan><tspan x="1084.6" class="o3">1</tspan><tspan x="1090.8" class="o5">1</tspan><tspan x="1097.0" class="o5">0</tspan><tspan x="1103.2" class="o5">1</tspan><tspan x="1109.4" class="o4">1</tspan><tspan x="1115.6" class="o1">0</tspan><tspan x="1121.8" class="o6">1</tspan><tspan x="1128.0" class="o3">1</tspan><tspan x="1134.2" class="o3">1</tspan><tspan x="1140.4" class="o5">0</tspan><tspan x="1146.6" class="o1">1</tspan><tspan x="1152.8" class="o2">0</tspan><tspan x="1159.0" class="o4">1</tspan><tspan x="1165.2" class="o3">0</tspan><tspan x="1171.4" class="o2">1</tspan><tspan x="1177.6" class="o3">1</tspan><tspan x="1183.8" class="o3">0</tspan></text>
   </g>
 </g></g>
-<g clip-path="url(#pclip)">
-  <rect class="scan" x="711" y="-140" width="489" height="70" fill="url(#scan)"/>
-</g>
 
 <!-- corner brackets -->
 <g stroke="#2ee6a6" stroke-width="2" fill="none">
@@ -176,8 +173,7 @@ text{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace}
     </g>
 
 <g transform="translate(96,474)">
-  <circle class="dot" cx="5" cy="-5" r="5" fill="#2ee6a6"/>
-  <text x="20" y="0" class="meta">OPEN TO INTERNSHIP / ALTERNANCE</text>
-  <text x="326" y="0" class="meta"><tspan class="acc">/</tspan>  LIMOGES, FR</text>
+  <text x="0" y="0" class="meta">OPEN TO INTERNSHIP / ALTERNANCE</text>
+  <text x="306" y="0" class="meta"><tspan class="acc">/</tspan>  LIMOGES, FR</text>
 </g>
 </svg>
