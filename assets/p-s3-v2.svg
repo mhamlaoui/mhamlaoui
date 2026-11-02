@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#07090d"/></linearGradient></defs>
+<style>
+.k{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:13px;fill:#7d8590;letter-spacing:2px}
+.h{font-family:'Segoe UI','Inter',Helvetica,Arial,sans-serif;font-size:27px;font-weight:700;fill:#f0f6fc}
+.d{font-family:'Segoe UI','Inter',Helvetica,Arial,sans-serif;font-size:16px;fill:#9ea7b3}
+.t{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:14px;fill:#2ee6a6}
+.s{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:13px;fill:#c9d1d9}
+.n{font-family:Consolas,'DejaVu Sans Mono','Courier New',monospace;font-size:84px;font-weight:700;fill:#ffffff;fill-opacity:.035}
+.p{animation:pu 2s ease-in-out infinite}@keyframes pu{50%{opacity:.2}}
+</style>
+<rect x="1" y="1" width="598" height="278" rx="10" fill="url(#g)" stroke="#21262d" stroke-width="2"/>
+<rect x="1" y="1" width="4" height="278" rx="2" fill="#2ee6a6"/>
+<text x="570" y="250" text-anchor="end" class="n">02</text>
+<text x="32" y="46" class="k">CLOUD · HARDENING</text>
+<text x="32" y="90" class="h">Hardened portfolio on S3</text>
+<g transform="translate(460,28)"><rect width="108" height="24" rx="12" fill="none" stroke="#30363d"/><text x="15" y="17" class="s">in progress</text></g>
+<text x="32" y="132" class="d">Static portfolio on AWS S3 built with OWASP guidance in mind:</text><text x="32" y="156" class="d">least-privilege bucket policy, security headers, zero server-</text><text x="32" y="180" class="d">side attack surface.</text>
+<rect x="32" y="226" width="72" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="43" y="244" class="t">AWS S3</text><rect x="112" y="226" width="47" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="123" y="244" class="t">IAM</text><rect x="168" y="226" width="64" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="179" y="244" class="t">OWASP</text><rect x="240" y="226" width="81" height="26" rx="4" fill="#0f2a22" stroke="#1d4a3b"/><text x="251" y="244" class="t">headers</text>
+</svg>
